@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# List of my favourite things! #
+* dogs
+* free time
+* exercise 
+  * yoga 
+  * walking
